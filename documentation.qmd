@@ -167,6 +167,37 @@ All metadata questions have been answered here and different sources have been b
     -   However, the GitHub repository is connected to an Apache License 2.0, which makes it difficult to know which license applies.\
 :::
 
+
+::: {.callout-important collapse="true"}
+## Solution: Example 5
+
+All metadata questions have been answered here and different sources have been brought together.
+
+-   Who created the dataset?\
+    -   Saak, Jens; Siebelts, Dirk; Werner, Steffen W. R.
+-   What do the data files contain?\
+    -   Code package for the execution of an extensive comparison of model reduction methods
+    -   From file structure: Python scripts and MATLAB scripts
+-   When was the dataset generated?\
+    -   From file structure: Only Version 1 published on February 13, 2019
+    -   The dataset was published on February 13, 2019.
+-   Where was the dataset generated?\
+    -   Max Planck Institute for Dynamics of Complex Technical Systems, CAU Kiel
+    -   From the related publication: Max Planck Institute for Dynamics of Complex Technical Systems, CAU Kiel
+-   Why was the dataset generated?\
+    -   For the structure preserving model reduction of second order mechanical systems exemplified on an artificial fish tail model
+    -   From the related publication: More detailed description of course in publication
+-   How was the dataset generated?\
+    -   Python; MATLAB
+    -   From related publication: Python; MATLAB
+-   What research is this dataset connected to?\
+    -   Not indicated on dataset level.
+    -   <https://doi.org/10.1515/auto-2019-0027> (Not provided on dataset level)
+-   Can this dataset be reused?\
+    -   The dataset is under a GNU General Public License v2.0 only, which would allow re-use under the given conditions.
+:::
+
+
 ::: callout-note
 ## Excursion: Community Standards
 
@@ -306,6 +337,16 @@ You might also suggest to your department/research group/institute/research comm
 -   4 sections can be filled based on the Example dataset README alone.
 -   Excluding the "METHODOLOGICAL INFORMATION" section, \~11 of the 19 open fields can be filled based on the information collected in task 2.1.
 -   Find the filled out README template for example 4 [here](/Example4_READMETemplate.md)
+:::
+
+::: {.callout-important collapse="true"}
+
+## Solution: Example 5
+
+-   4 sections can be filled based on the Example dataset README alone.
+-   Not all fields are applicable for code datasets/scripts
+-   ?? open fields can be filled based on the information collected in task 2.1.
+-   Find the filled out README template for example 5 [here](/Example5_READMETemplate.md)
 :::
 
 ## Codebook
@@ -452,6 +493,13 @@ Discuss: Can you find supportive information to understand the provided data in 
 -   The data files are all .log files that can be opened with a standard editor as ;-separated tables.
 -   Columns are named relatively clear.
 -   The scripts, how to deploy them and how to generate result from the data is explained in the README-file.
+:::
+
+::: {.callout-important collapse="true"}
+## Solution: Example 5
+
+-   No overview in the MATLAB code structure
+-   Script usage is explained in the README-file.
 :::
 
 ## Further Resources:
