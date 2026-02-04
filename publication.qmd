@@ -406,8 +406,6 @@ It would be nice to give a short overview of how to best use (or not use) GitHub
 3.  Click on the repository and go through the details: It assigns a DOI, you can publish under various licenses, it is certified etc.
 :::
 
-::: callout-note
-
 ::: {.callout-important collapse="true"}
 ## Solution: Example 5 (\~ 5 minutes)
 
