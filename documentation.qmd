@@ -347,6 +347,7 @@ You might also suggest to your department/research group/institute/research comm
 -   Not all fields are applicable for code datasets/scripts
 -   ?? open fields can be filled based on the information collected in task 2.1.
 -   Find the filled out README template for example 5 [here](/Example5_READMETemplate.md)
+-   More about code related documentation can be found under [Good Scientific Practice for Research Software Engineering](https://gwp-rse-ff130b.pages.gwdg.de/en/faqs/doc/)
 :::
 
 ## Codebook
